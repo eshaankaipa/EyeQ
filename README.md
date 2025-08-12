@@ -1,2 +1,2 @@
-# EyeQ
+# Optivus
 AI Math Glasses
