@@ -1,13 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "aiglasses-468505",
-  "private_key_id": "33b1eadf624e5bc8d750562b22064082a10bdea4",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC4mws996zyr10h\nwLFf+jTf3qCsYlCqrcczcuHEOPiyIB1GhnpGs4XWrM4hJlBH1x+1trEj0bAGPhSB\nfDgdF7oLfXpmp7P7tltCtXMtlhjDV/bV4aDGOvMrwaJRRVfFKf3iVgfOXNLSJ7HL\nPG/Sl5Tse6RLAi2oipIStNko6lgsKfv9NlhVMkT7TsfdE9RSDq65kZ3L9aqx6f53\nD/UxVAL/ZK6hiK2p+lbG7X9e6ul74w1giZ5sNHwcFm9qGbGnUW+sMtWzSANa8vrq\nYEeV6uv7i+MJqxtErcDRbwM5gv6ApK6p+wr20sKqg10Oisi0e+66sVMYy1Jqyw74\nezYkz+ddAgMBAAECggEAKPWVp/klMW+BXXTQpjfwtV9DDRx/Q29tTFgICa6OV49S\nj4xU4wz//CK5VZeXpmjvyzSu1wC2apwplpVGKgZSrCv6FX7OK2JJm2KBHLM56VXC\nGbCHKJR50dKTvi6Bi+iGQUrPTpU/3YsbIrnVIceqLlI8oLvp/4RHZskjibV9PMbu\n8WAUc/9DE/bYm1HLhY/Nv5y4qLLUxx7L/zjzRztmsGIy3ae50mzm0168I7P5Kw6T\nMRVq44Qqwmi0nfq/iODvUGBGCbajEeClnsjrIY9h2+YO42eEflc2kzO0J9wo52eQ\nkn4USS8JPX4m0hCDFbvLokyzG9XbkKdyCjKRHHTVTQKBgQDx+YW6sraJFbJITJJL\n27gNN3X/hjC+0/CQRbtlRizhty9cYUbQNf86ny7eUdgXJtNXBVM4Uy38uUe8BSpF\nBLlSMyNXvGDwIr/WIzUmpiNkXcWL2UUSk71SFSGVoxnHqNnfv/X1ZUA88HagvlHn\npqaf7jGMVkj1+bbzlRC6bZbDEwKBgQDDTkQU3+nfOhnWsM4IAc12OhNxz8BscKuB\nxQFZrFMpmHkmhZOvvy2rEi+PCHV8B7Uy2ZvFah1luYp/PCweYr+wS9/uvq0+xCZn\n/N9/VAz5w8THByjbZR4wwdxgp78q/A0TSt+Nr4Nx10kQUo7O84zs8kZAnWpOGhcR\n8MbM7dGJzwKBgELkLLDI2KcaxVcxO7wWuFGHBGqn6O/H3Re0/zHm7V9UaZZLGe1T\nEARfnvA8hdUYmZHT2gaXD/5uJcN3VhEQVj6//kQxwkaABLIot3fAs8X6GjMn0+1n\nxA1d5BPeq7DDH7+37EFzRQfTnaegFTpJmoRZr37RF4hQCOBbU+2FgAjbAoGAHPFM\nRYupLNt/WMF6xtT9jbetigAvk+JeiCyZtqBC8rcVvQ+ugyzhp6haQ+gNAQRjZdW5\nr9e544lLbO+N2jLoFUgpN0gqhFKtHlvrAwOBqMHKN3RoKZsijjcsYWZ6ffQ8O8+s\nsWKBKC2vNiwF3cVZ7QM6RfkN9+UF5jK4Q0Y69yECgYEAhA6Mp/tCz/2vuruoHO7o\nS9/g9jxF2IE4HoGQmEqYZRe545rIRgn/+92IFjMsntJ96ZW3sZ6V0oJx8IplGVIR\nRs2CeOnucysgVe/nBgfvZ284qXpZG1Vt/n+QILQN0cPHGHI4/aHAybcyELlfP6jN\nzGLWiR6liPjAZ9oNX8TjUTA=\n-----END PRIVATE KEY-----\n",
-  "client_email": "aiproject@aiglasses-468505.iam.gserviceaccount.com",
-  "client_id": "108748270072387753494",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/aiproject%40aiglasses-468505.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
-}
+
